@@ -1,0 +1,8 @@
+# Exclude the egg-info directory
+DARAZ_PRODUCT_RECOMMENDER.egg-info/
+
+# Exclude the .env file
+.env
+
+# Exclude the venv directory
+venv/
