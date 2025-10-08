@@ -187,18 +187,3 @@ python app.py
 ## 💬 Overview 
 
 ![daraz](/Data/daraz%20testcase.png)
-
-
-🎬 **Check out this youtube video on how the final project is working:**
-
-[![How to Set Up the Project](/Data/cclick%20here.png)](https://youtu.be/adivKIL5_kQ)
-
----
-
-## 👋 Contact
-
-**Md. Emnul Momin**\
-Email: emonmomin13950@gmail.com\
-LinkedIn: *https://www.linkedin.com/in/md-emnul-momin-462545301/*
-
-> This repo shows how I design for clarity, reliability, and iteration speed.
